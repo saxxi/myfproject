@@ -1,0 +1,5 @@
+#summary One-sentence summary of this page.
+
+= quando si aggiunge una categoria =
+
+  * creare sempre l'icona relativa|
