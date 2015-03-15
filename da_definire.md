@@ -1,0 +1,11 @@
+# stiamo attendendo #
+
+  * pdf termini e condizioni
+  * link weblog info
+  * pagina credits
+  * pagina info (riguardo ai miei interessi)
+  * colori header
+
+testi per operazioni login
+  * controllare se va bene la mail per l'attivazione di un account
+  * il testo della mail per "dimenticato password" manca del tutto

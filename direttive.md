@@ -1,0 +1,5 @@
+# quando si aggiunge una categoria #
+
+  * creare sempre l'icona relativa|
+  * aggiornare il db
+  * aggiornare il template excel
